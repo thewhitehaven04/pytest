@@ -1,0 +1,30 @@
+1666536022030	geckodriver	INFO	Listening on 127.0.0.1:51175
+1666536022444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyRAQKx"
+Gtk-Message: 17:40:22.819: Failed to load module "canberra-gtk-module"
+Gtk-Message: 17:40:22.827: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666537470651	geckodriver	INFO	Listening on 127.0.0.1:52795
+1666537471319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO8AMpE"
+Gtk-Message: 18:04:31.541: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:04:31.542: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666537480193	geckodriver	INFO	Listening on 127.0.0.1:54707
+1666537481047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeVeJXR"
+Gtk-Message: 18:04:41.298: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:04:41.300: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666541223998	geckodriver	INFO	Listening on 127.0.0.1:60025
+1666541224647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeFhcnK"
+Gtk-Message: 19:07:04.837: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:07:04.846: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666541457685	geckodriver	INFO	Listening on 127.0.0.1:47549
+1666541458344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLnHRKf"
+Gtk-Message: 19:10:58.544: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:10:58.552: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
